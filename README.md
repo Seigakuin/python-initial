@@ -1,4 +1,4 @@
-# SEIG Programming Club
+# SEIG Programming Club
 
 ## Powershell の起動
 * [windows] -> [R] を押す
