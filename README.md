@@ -1,7 +1,7 @@
 # SEIG Programming Club
 
 ## Powershell の起動
-* [windows] -> [R] を押す
+* [windows] -> [R] を押す
 * input に `powershell` と打ち込む
 * 起動
 
