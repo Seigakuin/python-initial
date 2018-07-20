@@ -13,5 +13,8 @@
         * `cd ./app` (`./`のピリオドは「現在のフォルダ」という意味 [相対パス])
 * Python の Shell を立ち上げるとき
     * `python`
+* Python でライブラリをインストールするとき
+    * 例: `pygame`をインストールする場合
+    * `python -m pip install pygame`
 
 ## 環境変数の設定
