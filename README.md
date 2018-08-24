@@ -27,4 +27,8 @@
     * [ユーザ] -> [PC-??] -> [AppData] -> [Local] -> [Programs] -> [Python] -> [Python36-32]
     * [エクスプローラー]パスバーをクリックし、パスをコピーする
 * 上記の環境変数の追加場所にPythonまでのパスを貼り付ける
+* Python Scripts の実行フォルダまで
+    * [ユーザ] -> [PC-??] -> [AppData] -> [Local] -> [Programs] -> [Python] -> [Python36-32] -> [Scripts]
+    * [エクスプローラー]パスバーをクリックし、パスをコピーする
+* 上記の環境変数の追加場所にPythonまでのパスを貼り付ける
 * `powershell` で `python` を実行し、パスが通ったかどうかを確認する
